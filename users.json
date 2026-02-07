@@ -3,7 +3,7 @@
     "fire": "https://raw.githubusercontent.com/jvrasek/bunt-capes/main/capes/fire.png"
   },
   "players": {
-    "TWOJE-UUID": "fire"
+    "jvras": "fire"
   },
   "catalog": [
      { "id": "fire", "name": "Ognista", "locked": false }
