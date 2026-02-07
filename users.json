@@ -1,14 +1,25 @@
 {
   "textures": {
-    "fire": "https://raw.githubusercontent.com/jvrasek/bunt-capes/main/capes/fire.png"
+    "fire": "https://raw.githubusercontent.com/jvrasek/bunt-capes/main/capes/fire.png",
+    "fioletowyusmiech": "https://raw.githubusercontent.com/jvrasek/bunt-capes/main/capes/fioletowyusmiech.png"
   },
   "players": {
-    "jvras": "fire"
+    "jvras": {
+      "selected": "fire",
+      "unlocked": [
+        "fire"
+      ]
+    }
   },
   "catalog": [
     {
       "id": "fire",
       "name": "Ognista",
+      "locked": false
+    },
+    {
+      "id": "fioletowyusmiech",
+      "name": "Fioletowy Usmiech",
       "locked": false
     }
   ]
