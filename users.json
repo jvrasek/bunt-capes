@@ -6,6 +6,10 @@
     "jvras": "fire"
   },
   "catalog": [
-     { "id": "fire", "name": "Ognista", "locked": false }
+    {
+      "id": "fire",
+      "name": "Ognista",
+      "locked": false
+    }
   ]
 }
