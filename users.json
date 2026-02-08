@@ -7,9 +7,10 @@
   },
   "players": {
     "jvras": {
-      "selected": "bunt_smp",
+      "selected": "buntclient",
       "unlocked": [
-        "bunt_smp"
+        "bunt_smp",
+        "buntclient"
       ]
     },
     "w00dister": {
