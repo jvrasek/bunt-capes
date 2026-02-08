@@ -1,24 +1,14 @@
 {
-  "textures": {
-    "buntclient": "https://raw.githubusercontent.com/jvrasek/bunt-capes/main/capes/buntclient.png"
-  },
+  "textures": {},
   "players": {
     "jvras": {
-      "selected": "buntclient",
-      "unlocked": [
-        "buntclient"
-      ]
+      "selected": "",
+      "unlocked": []
     },
     "w00dister": {
       "selected": "",
       "unlocked": []
     }
   },
-  "catalog": [
-    {
-      "id": "buntclient",
-      "name": "Bunt Client",
-      "locked": false
-    }
-  ]
+  "catalog": []
 }
