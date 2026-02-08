@@ -1,6 +1,5 @@
 {
   "textures": {
-    "fire": "https://raw.githubusercontent.com/jvrasek/bunt-capes/main/capes/fire.png",
     "fioletowyusmiech": "https://raw.githubusercontent.com/jvrasek/bunt-capes/main/capes/fioletowyusmiech.png",
     "bunt_smp": "https://raw.githubusercontent.com/jvrasek/bunt-capes/main/capes/bunt_smp.png",
     "buntclient": "https://raw.githubusercontent.com/jvrasek/bunt-capes/main/capes/buntclient.png"
@@ -16,17 +15,11 @@
     "w00dister": {
       "selected": "fioletowyusmiech",
       "unlocked": [
-        "fioletowyusmiech",
-        "fire"
+        "fioletowyusmiech"
       ]
     }
   },
   "catalog": [
-    {
-      "id": "fire",
-      "name": "Ognista",
-      "locked": false
-    },
     {
       "id": "fioletowyusmiech",
       "name": "Fioletowy Usmiech",
