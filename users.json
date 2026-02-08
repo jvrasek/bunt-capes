@@ -4,8 +4,10 @@
   },
   "players": {
     "jvras": {
-      "selected": "",
-      "unlocked": []
+      "selected": "bunt_client",
+      "unlocked": [
+        "bunt_client"
+      ]
     },
     "w00dister": {
       "selected": "",
