@@ -2,7 +2,8 @@
   "textures": {
     "fire": "https://raw.githubusercontent.com/jvrasek/bunt-capes/main/capes/fire.png",
     "fioletowyusmiech": "https://raw.githubusercontent.com/jvrasek/bunt-capes/main/capes/fioletowyusmiech.png",
-    "bunt_smp": "https://raw.githubusercontent.com/jvrasek/bunt-capes/main/capes/bunt_smp.png"
+    "bunt_smp": "https://raw.githubusercontent.com/jvrasek/bunt-capes/main/capes/bunt_smp.png",
+    "buntclient": "https://raw.githubusercontent.com/jvrasek/bunt-capes/main/capes/buntclient.png"
   },
   "players": {
     "jvras": {
@@ -33,6 +34,11 @@
     {
       "id": "bunt_smp",
       "name": "Bunt SMP",
+      "locked": false
+    },
+    {
+      "id": "buntclient",
+      "name": "Bunt Client",
       "locked": false
     }
   ]
