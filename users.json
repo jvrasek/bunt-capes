@@ -5,9 +5,10 @@
   },
   "players": {
     "jvras": {
-      "selected": "fire",
+      "selected": "fioletowyusmiech",
       "unlocked": [
-        "fire"
+        "fire",
+        "fioletowyusmiech"
       ]
     },
     "w00dister": {
