@@ -5,7 +5,9 @@
   "players": {
     "jvras": {
       "selected": "",
-      "unlocked": []
+      "unlocked": [
+        "bunt_beta"
+      ]
     },
     "w00dister": {
       "selected": "",
